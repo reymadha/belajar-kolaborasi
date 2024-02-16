@@ -1,3 +1,3 @@
 # belajar-kolaborasi
 
-* perubahan 1
+* Perubahan 1
